@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5d9e8c133483c4b8dd295546bef1bd, type: 3}
+  m_Name: New Minion
+  m_EditorClassIdentifier: 
+  cardID: M001
+  cardEffectID: 0
+  cardName: Underling
+  cardCost: 1
+  cardSpecies: 1
+  cardImage: {fileID: 0}
+  cardATK: 3
+  cardBAR: 0
+  cardHP: 2
+  cardFlavourText: weewoo

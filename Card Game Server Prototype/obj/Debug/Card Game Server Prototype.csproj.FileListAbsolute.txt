@@ -1,0 +1,7 @@
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\obj\Debug\Card Game Server Prototype.csprojAssemblyReference.cache
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\obj\Debug\Card Game Server Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\bin\Debug\Card Game Server Prototype.exe.config
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\bin\Debug\Card Game Server Prototype.exe
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\bin\Debug\Card Game Server Prototype.pdb
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\obj\Debug\Card Game Server Prototype.exe
+C:\Users\Alex-PC\Documents\Unity Projects\Card Game Server Prototype\obj\Debug\Card Game Server Prototype.pdb
